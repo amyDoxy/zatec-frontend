@@ -15,6 +15,10 @@ To run the project locally, execute the following command
 `npm install` to install project dependencies then run `npm start` to start the application.
  Navigate to `http://localhost:4201/`.
 
+ #### Backend
+ Make sure that the backend application is running.
+ URL Configuration for backend application: `/src/assets/conif/appConfig.json`
+
 ## Screenshots
 
 * Homepage
